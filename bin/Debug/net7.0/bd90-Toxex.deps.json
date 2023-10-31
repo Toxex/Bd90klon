@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "bd90-Toxex/1.0.0": {
+        "runtime": {
+          "bd90-Toxex.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bd90-Toxex/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

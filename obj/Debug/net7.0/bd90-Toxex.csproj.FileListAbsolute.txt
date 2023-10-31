@@ -1,0 +1,15 @@
+C:\Users\Tony och Lina\Desktop\SUVNET\OOP1\Hemuppgifter\bd90-Toxex\obj\Debug\net7.0\bd90-Toxex.csproj.AssemblyReference.cache
+C:\Users\Tony och Lina\Desktop\SUVNET\OOP1\Hemuppgifter\bd90-Toxex\obj\Debug\net7.0\bd90-Toxex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony och Lina\Desktop\SUVNET\OOP1\Hemuppgifter\bd90-Toxex\obj\Debug\net7.0\bd90-Toxex.AssemblyInfoInputs.cache
+C:\Users\Tony och Lina\Desktop\SUVNET\OOP1\Hemuppgifter\bd90-Toxex\obj\Debug\net7.0\bd90-Toxex.AssemblyInfo.cs
+C:\Users\Tony och Lina\Desktop\SUVNET\OOP1\Hemuppgifter\bd90-Toxex\obj\Debug\net7.0\bd90-Toxex.csproj.CoreCompileInputs.cache
+C:\Users\Tony och Lina\Desktop\SUVNET\OOP1\Hemuppgifter\bd90-Toxex\bin\Debug\net7.0\bd90-Toxex.exe
+C:\Users\Tony och Lina\Desktop\SUVNET\OOP1\Hemuppgifter\bd90-Toxex\bin\Debug\net7.0\bd90-Toxex.deps.json
+C:\Users\Tony och Lina\Desktop\SUVNET\OOP1\Hemuppgifter\bd90-Toxex\bin\Debug\net7.0\bd90-Toxex.runtimeconfig.json
+C:\Users\Tony och Lina\Desktop\SUVNET\OOP1\Hemuppgifter\bd90-Toxex\bin\Debug\net7.0\bd90-Toxex.dll
+C:\Users\Tony och Lina\Desktop\SUVNET\OOP1\Hemuppgifter\bd90-Toxex\bin\Debug\net7.0\bd90-Toxex.pdb
+C:\Users\Tony och Lina\Desktop\SUVNET\OOP1\Hemuppgifter\bd90-Toxex\obj\Debug\net7.0\bd90-Toxex.dll
+C:\Users\Tony och Lina\Desktop\SUVNET\OOP1\Hemuppgifter\bd90-Toxex\obj\Debug\net7.0\refint\bd90-Toxex.dll
+C:\Users\Tony och Lina\Desktop\SUVNET\OOP1\Hemuppgifter\bd90-Toxex\obj\Debug\net7.0\bd90-Toxex.pdb
+C:\Users\Tony och Lina\Desktop\SUVNET\OOP1\Hemuppgifter\bd90-Toxex\obj\Debug\net7.0\bd90-Toxex.genruntimeconfig.cache
+C:\Users\Tony och Lina\Desktop\SUVNET\OOP1\Hemuppgifter\bd90-Toxex\obj\Debug\net7.0\ref\bd90-Toxex.dll
